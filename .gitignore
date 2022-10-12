@@ -108,3 +108,7 @@ packaged.yaml
 venv/*
 .DS_Store
 s3_policy.json
+
+# Emily's Add-ons
+notes.txt
+front-end/node_modules
